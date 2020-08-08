@@ -1,3 +1,4 @@
+<h5>My personal configs</h5>
 NodeJs <br/>
 Framkework: express <br/>
 Database: PostgreSQL  <br/>
@@ -11,3 +12,26 @@ Libraries:
 <li>dotenv</li>
 <li>pg</li>
 </ul>
+
+<h5>Config add Visual Studio Code </h5>
+<code>
+"editor.codeActionsOnSave": { "source.fixAll.eslint": true },
+    "eslint.validate": [
+        {
+            "language": "javascript",
+            "autoFix": true
+        },
+        {
+            "language": "javascriptreact",
+            "autoFix": true
+        },
+        {
+            "language": "typescript",
+            "autoFix": true
+        },
+        {
+            "language": "typescriptreact",
+            "autoFix": true
+        }
+    ],
+</code>
