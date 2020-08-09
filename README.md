@@ -4,7 +4,7 @@ Framkework: express <br/>
 Database: PostgreSQL  <br/>
 Eslint: Airbnb  <br/>
 Package manager: Yarn  <br/>
-Debug: Visual Studio Code
+Debug: Visual Studio Code <br/>
 Libraries:
 <ul>
 <li>nodemon</li>
